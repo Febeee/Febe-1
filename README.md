@@ -1,7 +1,5 @@
 # Taylor Swift 的自我介绍
 
-<img src="https://picsum.photos/id/1/300/300" width="200" alt="Taylor Swift">
-
 大家好，我是**Taylor Swift**，我的身份是*美国创作型歌手、词曲作者、音乐制作人*。以下是我的自我介绍：
 
 ---
