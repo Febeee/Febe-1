@@ -36,13 +36,19 @@
 
 ## 我的专业是人工智能
 
-## 我最喜欢的一段代码
-## 本课程专用虚拟环境：nlp_lyf
+# 我最喜欢的一段代码
+
+# 本课程专用虚拟环境：nlp_lyf
+
+```python
 import numpy as np
 a = np.array([1, 2, 3])
 print(a ** 2)
-其中执行 print(a ** 2) 可输出结果 [1 4 9]。
-
+```
+其中执行 
+```python
+print(a ** 2) 可输出结果 [1 4 9]。
+```
 ## 我在 Anaconda Prompt 中激活环境并运行代码：
 <img src="env_pic.png" width="800" alt="环境搭建截图">
 
