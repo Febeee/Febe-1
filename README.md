@@ -7,7 +7,6 @@
 ---
 
 ## 基础档案
-
 ### 外貌特征
 - 标志性金色长卷发
 - 经典复古红唇
@@ -20,7 +19,7 @@
 3. ~~Karlie Kloss~~
 
 ### 重要坐标
-- 住址：[美国纳什维尔](sslocal://flow/file_open?url=https%3A%2F%2Fba.baidu.com%2Fitem%2F%E7%BA%B3%E4%BB%80%E7%BB%B4%E5%B0%94&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- 住址：[美国纳什维尔](sslocal://flow/file_open?url=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%E7%BA%B3%E4%BB%80%E7%BB%B4%E5%B0%94&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
 ### 日常作息表
 | 时间 | 核心事项 |
@@ -38,16 +37,14 @@
 ## 我的专业：人工智能
 
 ## 我最喜欢的一段代码
-
-# 本课程专用虚拟环境：nlp_lyf
+本课程专用虚拟环境：nlp_lyf
 import numpy as np
 a = np.array([1, 2, 3])
 print(a ** 2)
-
 其中执行 print(a ** 2) 可输出结果 [1 4 9]。
 
-我在 Anaconda Prompt 中激活环境并运行代码：
+##我在 Anaconda Prompt 中激活环境并运行代码：
 <img src="env_pic.png" width="800" alt="环境搭建截图">
 
-这是我在 Jupyter 中完成的基础代码作业：
+##这是我在 Jupyter 中完成的基础代码作业：
 <img src="jupyter_pic.png" width="800" alt="Jupyter作业截图">
