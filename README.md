@@ -1,6 +1,6 @@
 # Taylor Swift 的自我介绍
 
-<img src="https://img2.baidu.com/it/u=3269211647,1829113213&fm=253&fmt=auto&app=138&f=JPEG?w=200&h=300" width="200" alt="Taylor Swift">
+<img src="taylor_avatar.png" width="200" alt="Taylor Swift">
 
 大家好，我是**Taylor Swift**，我的身份是*美国创作型歌手、词曲作者、音乐制作人*。以下是我的自我介绍：
 
